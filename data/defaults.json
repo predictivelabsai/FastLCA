@@ -1,0 +1,16 @@
+{
+  "assessment_period_years": 50,
+  "grid_electricity_ef": 0.09,
+  "district_heating_ef": 0.16,
+  "a4_distance_km": 150,
+  "a4_ef_tkm": 0.05,
+  "a5_site_energy_kg_m2": 25,
+  "c2_waste_distance_km": 100,
+  "c2_ef_tkm": 0.05,
+  "c3_reuse_share": 0.75,
+  "c3_ef": 0.006,
+  "c4_disposal_share": 0.25,
+  "c4_ef": 0.001,
+  "d1_substitution": 0.9,
+  "d1_reuse_share": 0.5
+}

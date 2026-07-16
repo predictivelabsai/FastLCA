@@ -1,0 +1,11 @@
+[project]
+name = "fastlca"
+version = "0.1.0"
+description = "Open-source whole-building life-cycle carbon assessment (EN 15978) as a FastHTML web app"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["python-fasthtml>=0.12.0", "openpyxl>=3.1.0"]
+
+[tool.ruff]
+line-length = 120

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Apartment building",
+    "energy_kwh_m2": 120,
+    "water_m3_m2": 1.8,
+    "demolition_kg_m2": 14,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Detached / terraced house",
+    "energy_kwh_m2": 110,
+    "water_m3_m2": 1.5,
+    "demolition_kg_m2": 12,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Office",
+    "energy_kwh_m2": 140,
+    "water_m3_m2": 1.0,
+    "demolition_kg_m2": 16,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Commercial / retail",
+    "energy_kwh_m2": 180,
+    "water_m3_m2": 1.2,
+    "demolition_kg_m2": 16,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Educational",
+    "energy_kwh_m2": 130,
+    "water_m3_m2": 2.0,
+    "demolition_kg_m2": 15,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Accommodation / hotel",
+    "energy_kwh_m2": 200,
+    "water_m3_m2": 2.0,
+    "demolition_kg_m2": 14,
+    "water_ef": 0.2
+  },
+  {
+    "name": "Industrial / warehouse",
+    "energy_kwh_m2": 90,
+    "water_m3_m2": 0.5,
+    "demolition_kg_m2": 10,
+    "water_ef": 0.2
+  }
+]
