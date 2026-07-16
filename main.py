@@ -190,7 +190,7 @@ def index():
         Div(P(Span("EN 15978", cls="chip"), " open-source whole-building life-cycle carbon "
               "assessment · an inspectable alternative to a closed .xlsm prototype.", cls="lead")),
         app_body(),
-        P(A("What is LCA & how the model works →", href="https://github.com/predictivelabsai/FastHTML-LCA"),
+        P(A("What is LCA & how the model works →", href="https://github.com/predictivelabsai/FastLCA"),
           cls="muted"),
     )
 
