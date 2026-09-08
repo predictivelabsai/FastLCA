@@ -1,3 +1,4 @@
+from web.landing import landing_page
 """FastLCA — open-source whole-building life-cycle carbon calculator (EN 15978).
 
 A single-file FastHTML app: define a building, add materials, and get a live carbon breakdown
@@ -185,6 +186,11 @@ def _stat(label, value, unit):
 # ── routes ───────────────────────────────────────────────────────────────────────────
 @rt("/")
 def index():
+    return landing_page()
+
+
+@rt("/workspace")
+def workspace():
     return Titled(
         "FastLCA — building life-cycle carbon",
         Div(P(Span("EN 15978", cls="chip"), " open-source whole-building life-cycle carbon "
